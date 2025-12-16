@@ -104,8 +104,7 @@ See **credit_mysql.pdf** for a formatted version of the analysis.
 ---
 
 ## 📬 Contact
-
-https://www.linkedin.com/in/megha-rajeev-p-b56a2a237/
+https://www.linkedin.com/in/adithya-senguttuvan-36923863/
 Feel free to reach out if you want to improve this project further or add dashboards!
 
 ---
